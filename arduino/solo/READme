@@ -2,3 +2,4 @@ Project ChARIoT
 READme file
 
 The code in this folder is for the use of a single Arduino which controls three LEDs.
+Take a look at the repository wiki to see how to incorporate the file into your project.
